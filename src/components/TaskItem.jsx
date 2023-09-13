@@ -1,5 +1,4 @@
-import { useContext, useState } from "react";
-import { useEffect } from "react";
+import { useContext } from "react";
 import { TaskContext } from "../contexts/TaskContext";
 import "../css/taskItem.css";
 
