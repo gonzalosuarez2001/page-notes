@@ -1,0 +1,6 @@
+.taskItem_item {
+  box-shadow: 3px 4px 11px 1px rgba(171, 171, 171, 0.63);
+  -webkit-box-shadow: 3px 4px 11px 1px rgba(171, 171, 171, 0.63);
+  -moz-box-shadow: 3px 4px 11px 1px rgba(171, 171, 171, 0.63);
+  white-space: normal !important;
+}
